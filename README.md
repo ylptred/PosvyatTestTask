@@ -4,4 +4,4 @@
 Также сайт виден и другим людям, для этого был использован прокси ngrok. url: https://26ee-95-221-127-158.eu.ngrok.io
 Также обернул эту тему в Docker Compose. Теперь с помощью докера можно посмотреть на анекдот :)
 
-Использовал: Python, http.server + socketserver + urllib.request, Docker Compose, BeatifulSoup4, ngrok. (Хотел разобраться в Jinja, но она посложнее, конечно)
+Использовал: Python, Flask, http.server + socketserver + urllib.request, Docker Compose, BeatifulSoup4, ngrok. (Хотел разобраться в Jinja, но она посложнее, конечно)
